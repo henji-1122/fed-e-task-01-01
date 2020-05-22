@@ -1,0 +1,12 @@
+{
+  "name": "Node_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dev": ""
+  },
+  "author": "虫虫",
+  "license": "ISC",
+  "dependencies": {}
+}
